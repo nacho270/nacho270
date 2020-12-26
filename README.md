@@ -2,7 +2,7 @@
 
 ## I'm a backend software engineer from Argentina 🇦🇷 living in the UK 🇬🇧
 
-- 🔭 I work in finance and used to for [MercadoLibre](http://mercadolibre.com.ar/)
+- 🔭 I work in finance and used to work for [MercadoLibre](http://mercadolibre.com.ar/)
 - 🌱 I’m currently trying to become a fuller-stack dev 🤣
 - 🥅 Goal: Start collaborating with more open source projects and eventually have one of my own
 - ⚡ Fun fact: I love heavy metal, football 💙 💛 💙 and i'm big fan of James Bond movies
