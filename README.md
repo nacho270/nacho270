@@ -79,7 +79,7 @@
 
 <!-- MY_PLAYLISTS:START-->
 <a href='https://open.spotify.com/playlist/3g35a88jJ4qShU6bf7jALz' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2730158cbde70672dd821972907ab67616d0000b27329bd7a27cebf08f4ea8d6aa0ab67616d0000b2734fa96bb1bae5083fe96a0ea4ab67616d0000b27364af5b8ea1d0eaedcf5aa24d"/></a>
-<a href='https://open.spotify.com/playlist/7i9fEkfordzs8hzlnukric' target='_blank'><img align="left" width="150px" src="https://i.scdn.co/image/ab67616d0000b273a1427ed2ed6dae9b866ecb68"/></a>
+<a href='https://open.spotify.com/playlist/7i9fEkfordzs8hzlnukric' target='_blank'><img align="left" width="150px" src="https://i.scdn.co/image/ab67616d0000b27362824c1d765a5beec9231f7d"/></a>
 <a href='https://open.spotify.com/playlist/3oZ0Yf9yfUk16ipQJMcH7i' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2730df1d0af96c86584c82a8df7ab67616d0000b2731c5d4e4695659ec7a046364bab67616d0000b2737a47d0f084dc8b0a562bbbf2ab67616d0000b273b4251c7b0c01a10fe2ad5f0b"/></a>
 <a href='https://open.spotify.com/playlist/5jiqAWpSb0RWIWPsyTxv2A' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2734ce8b4e42588bf18182a1ad2ab67616d0000b27384243a01af3c77b56fe01ab1ab67616d0000b273d283808926ad3d2220e63c1cab67616d0000b273dc30583ba717007b00cceb25"/></a>
 <a href='https://open.spotify.com/playlist/1L5A1vFtsNpl00qBazSy3R' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2730538b48c180256e0bdd8363fab67616d0000b2733aa5698b9f13447a6ccc0dccab67616d0000b27354a8f4f9158546472fbb7280ab67616d0000b273a7292b6863258e889b78d787"/></a>
