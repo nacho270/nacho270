@@ -53,11 +53,13 @@
 ### Connect with me:
 
 [<img align="left" alt="nacho270.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Ignacio Cicero | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="ignaciocicero | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="icicero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nacho_270 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://nacho270.github.io/
+[medium]: https://ignaciocicero.medium.com/
 [twitter]: https://twitter.com/ignaciocicero
 [instagram]: https://instagram.com/nacho_270
 [linkedin]: https://linkedin.com/in/icicero
