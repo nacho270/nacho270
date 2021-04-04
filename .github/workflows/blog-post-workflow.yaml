@@ -1,0 +1,16 @@
+name: Latest medium post workflow
+on:
+  schedule:
+    # Runs at 1 AM to avoid conflict with the spotify one
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+jobs:
+  update-readme-with-medium-articles:
+    name: Update README with latest medium articles
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "4"
+          feed_list: "https://medium.com/feed/@ignaciocicero"
