@@ -13,7 +13,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Docker + Kubernetes + Helm: A comprehensive step-by-step using Java](https://ignaciocicero.medium.com/docker-kubernetes-helm-a-comprehensive-step-by-step-using-java-df83f6780d80?source=rss-f0b17d049285------2)
-- [Alternatives query tooling for Java](https://ignaciocicero.medium.com/alternatives-query-tooling-for-java-27da9822b980?source=rss-f0b17d049285------2)
+- [Alternative query tooling for Java](https://ignaciocicero.medium.com/alternatives-query-tooling-for-java-27da9822b980?source=rss-f0b17d049285------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
