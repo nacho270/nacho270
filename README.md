@@ -12,6 +12,7 @@
 ### 📕 Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Docker + Kubernetes + Helm: A comprehensive step-by-step using Java](https://ignaciocicero.medium.com/docker-kubernetes-helm-a-comprehensive-step-by-step-using-java-df83f6780d80?source=rss-f0b17d049285------2)
 - [Alternative query tooling for Java](https://ignaciocicero.medium.com/alternatives-query-tooling-for-java-27da9822b980?source=rss-f0b17d049285------2)
 <!-- BLOG-POST-LIST:END -->
@@ -81,10 +82,8 @@
 
 ### :zap: Github stats
 
-<img align="left" alt="Nacho's github stats" src="https://github-readme-stats.nacho270.vercel.app/api/top-langs?username=nacho270&show_icons=true&hide_border=true&theme=radical" />
-<img align="left" alt="Nacho's github stats" src="https://github-readme-stats.nacho270.vercel.app/api?username=nacho270&show_icons=true&hide_border=true&theme=radical" />
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+![Nacho's GitHub stats](https://github-readme-stats.nacho270.vercel.app/api?username=nacho270&show_icons=true&hide=issues&hide_border=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.nacho270.vercel.app/api/top-langs/?username=nacho270&show_icons=true&hide_border=true&theme=vue-dark&layout=compact)](https://github.com/nacho270/github-readme-stats)
 
 ---
 
