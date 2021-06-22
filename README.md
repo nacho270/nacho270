@@ -12,6 +12,7 @@
 ### 📕 Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring integration tests: A kickstart to mistreat your software.](https://ignaciocicero.medium.com/spring-integration-tests-a-kickstart-to-mistreat-your-software-e63098733b55?source=rss-f0b17d049285------2)
 - [Java beyond Spring: A set of alternatives.](https://ignaciocicero.medium.com/java-beyond-spring-a-set-of-alternatives-c4c5a93f6220?source=rss-f0b17d049285------2)
 - [Docker + Kubernetes + Helm: A comprehensive step-by-step using Java](https://ignaciocicero.medium.com/docker-kubernetes-helm-a-comprehensive-step-by-step-using-java-df83f6780d80?source=rss-f0b17d049285------2)
 - [Alternative query tooling for Java](https://ignaciocicero.medium.com/alternatives-query-tooling-for-java-27da9822b980?source=rss-f0b17d049285------2)
