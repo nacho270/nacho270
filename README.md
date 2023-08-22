@@ -49,7 +49,7 @@
 
 <!-- MY_PLAYLISTS:START-->
 <a href='https://open.spotify.com/playlist/4YPPzd239zEfo6PXYOuLs5' target='_blank'></a>
-<a href='https://open.spotify.com/playlist/7vV7Wg39pLm4mGa8V9kaFT' target='_blank'><img align="left" width="150px" src="https://i.scdn.co/image/ab67706c0000bebb98bd0246181f7cdf3f39ec61"/></a>
+<a href='https://open.spotify.com/playlist/7vV7Wg39pLm4mGa8V9kaFT' target='_blank'><img align="left" width="150px" src="https://images-ak.spotifycdn.com/image/ab67706c0000bebb98bd0246181f7cdf3f39ec61"/></a>
 <a href='https://open.spotify.com/playlist/2WQxnWwkz2TqKvJGDezaoQ' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2730f87d96e0fac678684d716b9ab67616d0000b27337d87946cc6a3ed79d72474cab67616d0000b27365a17778ff041c1568374e64ab67616d0000b273a6ecffb73d96e35c793d46b8"/></a>
 <a href='https://open.spotify.com/playlist/3iwYQaN6SyQo5MguWFMSlV' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2732d925cec3072ed1b74e5188fab67616d0000b2735c8f2a04c85c677bfe2b1639ab67616d0000b273b322b8284215d38821e72738ab67616d0000b273e8dd4db47e7177c63b0b7d53"/></a>
 <a href='https://open.spotify.com/playlist/7A0LbGQMH4CWSdcGh4fCMG' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2733ac318439ae56ce048d7bf5dab67616d0000b27390ef9760e57fafd8f966d17aab67616d0000b2739683e5d7361bb80bfb00f46dab67616d0000b273a07cc88003498f7559787673"/></a>
