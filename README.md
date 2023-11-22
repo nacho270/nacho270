@@ -49,20 +49,20 @@
 
 <!-- MY_PLAYLISTS:START-->
 <a href='https://open.spotify.com/playlist/4YPPzd239zEfo6PXYOuLs5' target='_blank'></a>
-<a href='https://open.spotify.com/playlist/7vV7Wg39pLm4mGa8V9kaFT' target='_blank'><img align="left" width="150px" src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb98bd0246181f7cdf3f39ec61"/></a>
-<a href='https://open.spotify.com/playlist/2WQxnWwkz2TqKvJGDezaoQ' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2730f87d96e0fac678684d716b9ab67616d0000b27337d87946cc6a3ed79d72474cab67616d0000b27365a17778ff041c1568374e64ab67616d0000b273a6ecffb73d96e35c793d46b8"/></a>
-<a href='https://open.spotify.com/playlist/3iwYQaN6SyQo5MguWFMSlV' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2732d925cec3072ed1b74e5188fab67616d0000b2735c8f2a04c85c677bfe2b1639ab67616d0000b273b322b8284215d38821e72738ab67616d0000b273e8dd4db47e7177c63b0b7d53"/></a>
-<a href='https://open.spotify.com/playlist/7A0LbGQMH4CWSdcGh4fCMG' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2733ac318439ae56ce048d7bf5dab67616d0000b2738c1fadcc997a65384f34d694ab67616d0000b273a07cc88003498f7559787673ab67616d0000b273a729c9c3dec04b99d889c66f"/></a>
+<a href='https://open.spotify.com/playlist/7vV7Wg39pLm4mGa8V9kaFT' target='_blank'></a>
+<a href='https://open.spotify.com/playlist/2WQxnWwkz2TqKvJGDezaoQ' target='_blank'></a>
+<a href='https://open.spotify.com/playlist/3iwYQaN6SyQo5MguWFMSlV' target='_blank'></a>
+<a href='https://open.spotify.com/playlist/7A0LbGQMH4CWSdcGh4fCMG' target='_blank'></a>
 
-<a href='https://open.spotify.com/playlist/0UXGGfmJDv55rHjg5zPTi2' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2735dd27754d26ecbb0f0232156ab67616d0000b2737c8a923e9407a36ed6ce01bcab67616d0000b273c7190a75bf05ad902f52c7a2ab67616d0000b273ecf31532899b046d5425db77"/></a>
-<a href='https://open.spotify.com/playlist/5qUTpzufx9M7iIOP6bItte' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2732777c9d955f300c86b43059fab67616d0000b2732d2f4cefa2a23dc3dd6d4f3bab67616d0000b2735dd27754d26ecbb0f0232156ab67616d0000b273ecf31532899b046d5425db77"/></a>
-<a href='https://open.spotify.com/playlist/7v0RRjfL6CwxgbFTEvUpQo' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2731c5eacf6965d328c2c795cefab67616d0000b27376ffb5b5ab045d22c81235c1ab67616d0000b273b21a2fe04d5572ff47ffb2c0ab67616d0000b273c4a7e933ef7fbb7e6485b73a"/></a>
-<a href='https://open.spotify.com/playlist/3g35a88jJ4qShU6bf7jALz' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2730158cbde70672dd821972907ab67616d0000b27329bd7a27cebf08f4ea8d6aa0ab67616d0000b27364af5b8ea1d0eaedcf5aa24dab67616d0000b273ba12c467b8cc7eb3be9e7d8b"/></a>
-<a href='https://open.spotify.com/playlist/7i9fEkfordzs8hzlnukric' target='_blank'><img align="left" width="150px" src="https://i.scdn.co/image/ab67616d0000b27362824c1d765a5beec9231f7d"/></a>
+<a href='https://open.spotify.com/playlist/0UXGGfmJDv55rHjg5zPTi2' target='_blank'></a>
+<a href='https://open.spotify.com/playlist/5qUTpzufx9M7iIOP6bItte' target='_blank'></a>
+<a href='https://open.spotify.com/playlist/7v0RRjfL6CwxgbFTEvUpQo' target='_blank'></a>
+<a href='https://open.spotify.com/playlist/3g35a88jJ4qShU6bf7jALz' target='_blank'></a>
+<a href='https://open.spotify.com/playlist/7i9fEkfordzs8hzlnukric' target='_blank'></a>
 
-<a href='https://open.spotify.com/playlist/3oZ0Yf9yfUk16ipQJMcH7i' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2731c5d4e4695659ec7a046364bab67616d0000b27338430038d66010355177db8eab67616d0000b2739e8e71384ba9d789b300c43cab67616d0000b273efe55e4449fe3cc1b1c9fd03"/></a>
-<a href='https://open.spotify.com/playlist/5jiqAWpSb0RWIWPsyTxv2A' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2734ce8b4e42588bf18182a1ad2ab67616d0000b27384243a01af3c77b56fe01ab1ab67616d0000b273d283808926ad3d2220e63c1cab67616d0000b273dc30583ba717007b00cceb25"/></a>
-<a href='https://open.spotify.com/playlist/1L5A1vFtsNpl00qBazSy3R' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2730538b48c180256e0bdd8363fab67616d0000b2733aa5698b9f13447a6ccc0dccab67616d0000b27354a8f4f9158546472fbb7280ab67616d0000b273a7292b6863258e889b78d787"/></a>
-<a href='https://open.spotify.com/playlist/2MizBkA9J7y1vjisHig10j' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2734e9522fabc16bfaf9b44bfa7ab67616d0000b2735e7464d9d8a25b2bf74b782aab67616d0000b2736f093a6ae88a5ca8ed53b9f7ab67616d0000b273d752956b8a82ffa07baa835e"/></a>
-<a href='https://open.spotify.com/playlist/6kStwB9BJClsmMmGlZIdHe' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d0000b2736869f1cd33bf72e00313520dab67616d0000b273ac9a652335cf34de9a65292aab67616d0000b273da4f6706ae0f2501c61ce776ab67616d0000b273db89b08034de626ebee6823d"/></a>
+<a href='https://open.spotify.com/playlist/3oZ0Yf9yfUk16ipQJMcH7i' target='_blank'></a>
+<a href='https://open.spotify.com/playlist/5jiqAWpSb0RWIWPsyTxv2A' target='_blank'></a>
+<a href='https://open.spotify.com/playlist/1L5A1vFtsNpl00qBazSy3R' target='_blank'></a>
+<a href='https://open.spotify.com/playlist/2MizBkA9J7y1vjisHig10j' target='_blank'></a>
+<a href='https://open.spotify.com/playlist/6kStwB9BJClsmMmGlZIdHe' target='_blank'></a>
 <!-- MY_PLAYLISTS:END-->
