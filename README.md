@@ -23,11 +23,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nacho270.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ignacio Cicero | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="ignaciocicero | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="icicero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nacho_270 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="nacho270.github.io" width="22px" src="https://cdn1.iconfinder.com/data/icons/online-marketing-10/32/Grid_Globe__Cursor-512.png" />][website]
+[<img align="left" alt="Ignacio Cicero | Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />][medium]
+[<img align="left" alt="ignaciocicero | X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" />][twitter]
+[<img align="left" alt="icicero | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" />][linkedin]
+[<img align="left" alt="nacho_270 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
 
 [website]: https://nacho270.github.io/
 [medium]: https://ignaciocicero.medium.com/
