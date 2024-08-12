@@ -42,7 +42,6 @@
 ### <img src="https://i.pinimg.com/originals/93/46/53/934653214719cf630e0f5cf9c746b364.png" align="left" width="30px" /> [My spotify playlists](https://github.com/nacho270/spotify-playlists-github-action)<br/><br/>
 
 <!-- MY_PLAYLISTS:START-->
-
 <a href='https://open.spotify.com/playlist/7q1D1QOI6HX7ALAYrdFrNT' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d00001e0234fb2b0117a542d515dc78d6ab67616d00001e025ef4660298ae29ee18799fc2ab67616d00001e0284243a01af3c77b56fe01ab1ab67616d00001e02e9e9d64a24746c73fd139234"/></a>
 <a href='https://open.spotify.com/playlist/6rOqcxEcShKPkftTYEz72D' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d00001e023aa5698b9f13447a6ccc0dccab67616d00001e0254a8f4f9158546472fbb7280ab67616d00001e026869f1cd33bf72e00313520dab67616d00001e02ba12c467b8cc7eb3be9e7d8b"/></a>
 <a href='https://open.spotify.com/playlist/4YPPzd239zEfo6PXYOuLs5' target='_blank'></a>
@@ -60,5 +59,4 @@
 <a href='https://open.spotify.com/playlist/3oZ0Yf9yfUk16ipQJMcH7i' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d00001e021c5d4e4695659ec7a046364bab67616d00001e027a47d0f084dc8b0a562bbbf2ab67616d00001e029e8e71384ba9d789b300c43cab67616d00001e02b4251c7b0c01a10fe2ad5f0b"/></a>
 <a href='https://open.spotify.com/playlist/5jiqAWpSb0RWIWPsyTxv2A' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d00001e024ce8b4e42588bf18182a1ad2ab67616d00001e0284243a01af3c77b56fe01ab1ab67616d00001e02d283808926ad3d2220e63c1cab67616d00001e02dc30583ba717007b00cceb25"/></a>
 <a href='https://open.spotify.com/playlist/1L5A1vFtsNpl00qBazSy3R' target='_blank'><img align="left" width="150px" src="https://mosaic.scdn.co/640/ab67616d00001e020538b48c180256e0bdd8363fab67616d00001e023aa5698b9f13447a6ccc0dccab67616d00001e0254a8f4f9158546472fbb7280ab67616d00001e02a7292b6863258e889b78d787"/></a>
-
 <!-- MY_PLAYLISTS:END-->
